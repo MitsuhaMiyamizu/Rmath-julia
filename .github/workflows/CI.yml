@@ -20,7 +20,7 @@ jobs:
         os:
           - ubuntu-latest
           - windows-latest
-          - macOS-13
+          - macOS-15
         arch:
           - x64
         include:
